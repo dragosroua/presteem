@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Pressteem
  * Plugin URI:        http:/github.com/dragosroua/presteem
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Combining the Steem blockchain with the power of WordPress. This plugin integrates a few backend features of the Steem platform with a standard Wordpress installation.
  * Version:           1.0.0
  * Author:            Dragos Roua
  * Author URI:        http://dragosroua.com
