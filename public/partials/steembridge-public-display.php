@@ -8,8 +8,8 @@
  * @link       http://dragosroua.com
  * @since      1.0.0
  *
- * @package    Presteem
- * @subpackage Presteem/public/partials
+ * @package    Steembridge
+ * @subpackage Steembridge/public/partials
  */
 ?>
 
