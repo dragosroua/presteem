@@ -10,12 +10,12 @@
  *
  * @link              http://dragosroua.com
  * @since             1.0.0
- * @package           Presteem
+ * @package           Steem Bridge
  *
  * @wordpress-plugin
- * Plugin Name:       Pressteem
+ * Plugin Name:       Steem Bridge
  * Plugin URI:        http:/github.com/dragosroua/presteem
- * Description:       Combining the Steem blockchain with the power of WordPress. This plugin integrates a few backend features of the Steem platform with a standard Wordpress installation.
+ * Description:       Wordpress plugin integrating posting and commenting with the Steem blockchain.
  * Version:           1.0.0
  * Author:            Dragos Roua
  * Author URI:        http://dragosroua.com
