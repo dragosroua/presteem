@@ -146,6 +146,20 @@ class Steembridge_Admin {
 	public function display_plugin_setup_page() {
 	    include_once( 'partials/steembridge-admin-display.php' );
 	}
+	
+	 public function options_update() {
+	    register_setting($this->plugin_name, $this->plugin_name, array($this, 'validate'));
+	 }
+	
+	public function validate($input) {    
+	    $valid = array();
+	
+	    //Cleanup
+	    $valid['steem_account'] = strip_tags(stripcslashes($input['steem_account']));
+	
+	    return $valid;
+ 	}
+
 
 
 }
