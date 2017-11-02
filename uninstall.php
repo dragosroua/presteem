@@ -22,7 +22,7 @@
  * @link       http://dragosroua.com
  * @since      1.0.0
  *
- * @package    Presteem
+ * @package    Steembridge
  */
 
 // If uninstall not called from WordPress, then exit.
